@@ -1,0 +1,4 @@
+﻿  P05.cpp
+c:\users\user\onedrive\桌面\1123\p05\p05\p05.cpp(12): warning C4477: 'printf' : 格式字串 '%p' 需要 'void *' 類型的引數，但 variadic 引數 1 的類型為 'int'
+c:\users\user\onedrive\桌面\1123\p05\p05\p05.cpp(12): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'int *'
+  P05.vcxproj -> C:\Users\USER\OneDrive\桌面\1123\P05\Debug\P05.exe
